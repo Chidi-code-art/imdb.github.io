@@ -1,0 +1,1 @@
+prompt("Do you want to view this website?")
